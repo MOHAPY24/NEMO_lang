@@ -89,8 +89,13 @@ A valid NEMO program:
 | `f`     | Jump Y pointer if current Y cell == 0               |
 | `&`     | Start comment mode                                  |
 | `/`     | End comment mode                                    |
+| `R`     | Return y_Cell                                       |
+| `r`     | Return x_Cell                                       |
+| `T`     | Return x_Tape                                       |
+| `t`     | Return y_Tape                                       |
 
 ---
+
 
 ## 🛠 Example Usage
 
@@ -127,7 +132,3 @@ Hi
 ## 📄 License
 
 MIT License — free to use, modify, and distribute.
-# NEMO_lang
-# NEMO_lang
-# NEMO_lang
-# NEMO_lang
