@@ -39,7 +39,11 @@ This DSL can be used for:
 ## 📦 Installation
 
 ```bash
-git clone 
+git clone https://github.com/MOHAPY24/NEMO_lang.git
+```
+in python
+```python
+from nemo_lang import NEMO
 ```
 
 ---
